@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-- 🌊 I’m currently learning vanilla web developement little by little
+- 🌊 I'm currently training to become a fullstack dev
 - 🍁 Also I'm an Electrical & Computer Engineering (ECE) student
