@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 
 ## Hi there 👋
 
-- 🌊 I'm currently training to become a fullstack dev
-- 🍁 Also I'm an Electrical & Computer Engineering (ECE) student
+- My name is **Epameinondas Bakoulas**
+- 🌊 I'm an Electrical and Computer Engineering student @AUTh
+- 🍁 Currently expanding my skills on Fullstack development
